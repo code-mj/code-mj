@@ -6,5 +6,6 @@ I'm Mansi, a double graduate in Data Science and Computer Science with around fi
 
 💬 Ask me about Industry level project development, experiences and data science projects.
 
-📫 Feel free to reach out to me via  <a href="mailto:mansij.92@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="20px"></a> or connect on  <a href="https://www.linkedin.com/in/mj-mansi-joshi/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="20px"></a>.
+📫 Feel free to reach out to me via Email or connect on LinkedIn.
+<a href="mailto:mansij.92@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="20px"></a>   <a href="https://www.linkedin.com/in/mj-mansi-joshi/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="20px"></a>.
  - ✉ (mailto:mansij.92@gmail.com)
